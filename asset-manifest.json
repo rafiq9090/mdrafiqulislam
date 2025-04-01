@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/mdrafiqulislam/static/css/main.b325557a.css",
-    "main.js": "/mdrafiqulislam/static/js/main.433138c6.js",
+    "main.css": "/mdrafiqulislam/static/css/main.4156c72e.css",
+    "main.js": "/mdrafiqulislam/static/js/main.2ac7efe2.js",
     "index.html": "/mdrafiqulislam/index.html",
-    "main.b325557a.css.map": "/mdrafiqulislam/static/css/main.b325557a.css.map",
-    "main.433138c6.js.map": "/mdrafiqulislam/static/js/main.433138c6.js.map"
+    "main.4156c72e.css.map": "/mdrafiqulislam/static/css/main.4156c72e.css.map",
+    "main.2ac7efe2.js.map": "/mdrafiqulislam/static/js/main.2ac7efe2.js.map"
   },
   "entrypoints": [
-    "static/css/main.b325557a.css",
-    "static/js/main.433138c6.js"
+    "static/css/main.4156c72e.css",
+    "static/js/main.2ac7efe2.js"
   ]
 }
