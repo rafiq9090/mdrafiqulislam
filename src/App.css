@@ -358,6 +358,19 @@ section { padding: 3rem 1.5rem; }
 .contact form { max-width:600px; margin:0 auto; display:flex; flex-direction:column; gap: .75rem; }
 .contact form input, .contact form textarea { padding: .9rem; border:1px solid rgba(16,24,40,0.06); border-radius:8px; background: #fff; }
 .contact form button { background: var(--primary); color: #fff; padding: .6rem 1rem; border-radius:8px; border:none; cursor:pointer; }
+/* Put this in a global CSS (e.g., contact.css) loaded by the page */
+.contact form label {
+  display: block;         /* take full line [web:156] */
+  text-align: left;       /* align text left [web:143] */
+  margin: 0 0 6px 2px;    /* small spacing under label */
+  font-weight: 600;
+}
+.contact form input,
+.contact form textarea {
+  width: 100%;
+  display: block;
+}
+
 
 /* Projects */
 .projects { text-align:center; }
